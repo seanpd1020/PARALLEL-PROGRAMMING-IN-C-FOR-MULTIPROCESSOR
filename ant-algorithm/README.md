@@ -1,0 +1,1 @@
+使用MPI+OpenMP實作，每一台電腦各啟動一個process，每個process再fork出multi-thread
